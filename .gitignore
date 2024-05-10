@@ -1,2 +1,5 @@
 #ignore ide files
 /.idea
+
+#ignote build files
+/bin
