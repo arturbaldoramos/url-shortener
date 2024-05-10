@@ -3,3 +3,6 @@
 
 #ignote build files
 /bin
+
+#ignore enviroment file
+/api/.env
