@@ -6,3 +6,6 @@
 
 #ignore enviroment file
 /api/.env
+
+#temp files
+/api/tmp

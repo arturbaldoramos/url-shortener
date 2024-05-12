@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/Valgard/godotenv"
 	"github.com/arturbaldoramos/url-shortener/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
+	"github.com/joho/godotenv"
 	"log"
 	"os"
 )
