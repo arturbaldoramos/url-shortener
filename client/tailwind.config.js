@@ -1,7 +1,8 @@
 export default {
+  darkMode: 'media',
   content: [
     // Example content paths...
-    './public/**/*.html',
+    './*.html',
     './src/**/*.{js,jsx,ts,tsx,vue}',
   ],
   theme: {
