@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    color: var(--color-text);
+    background: var(--p-zinc-950);
+    transition:
+        color 0.3,
+        background-color 0.3s;
+    line-height: 1.6;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 15px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

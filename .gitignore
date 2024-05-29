@@ -1,11 +1,23 @@
 #ignore ide files
 /.idea
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
-#ignote build files
+#build files
 /bin
 
-#ignore enviroment file
+#enviroment file
 /api/.env
 
 #temp files
 /api/tmp
+
+#node modules
+/client/node_modules
+/dist
