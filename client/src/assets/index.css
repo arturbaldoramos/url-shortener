@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 body {
+    background-image: url('https://tailwindcss.com/_next/static/media/docs-dark@30.1a9f8cbf.avif');
     min-height: 100vh;
     line-height: 1.6;
     font-family: 'Inter var', ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
