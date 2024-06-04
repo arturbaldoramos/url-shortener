@@ -3,7 +3,7 @@ export default {
   content: [
     // Example content paths...
     './*.html',
-    './src/**/*.{js,jsx,ts,tsx,vue}',
+    './src/**/*.{vue,js,jsx,ts,tsx}',
   ],
   theme: {
     // ...
